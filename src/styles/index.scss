@@ -1,7 +1,10 @@
-$body-color: slateblue;
+$body-color: #e4f3f5;
 
 body {
-    color: $body-color;
-    font-family: sans-serif;
-    background: papayawhip;
+	font-family: sans-serif;
+	background: $body-color;
+}
+
+h1 {
+	text-align: center;
 }
